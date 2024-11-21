@@ -1,0 +1,1 @@
+<img src="<?= $this->getImageUrl('img/pin.jpg') ?>" style="width: 100%" class="image-responsive">

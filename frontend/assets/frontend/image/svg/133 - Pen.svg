@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil3 {fill:#BEBEBE}
+    .fil4 {fill:#545454;fill-rule:nonzero}
+    .fil1 {fill:#616161;fill-rule:nonzero}
+    .fil5 {fill:#717171;fill-rule:nonzero}
+    .fil2 {fill:#757575;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <g id="_544174736">
+   <g>
+    <polygon id="_544177160" class="fil1" points="594.402,1777.82 593.677,1748.2 590.526,1619.55 590.226,1607.33 598.452,1597.28 679.327,1503.98 740.04,1535.98 "/>
+    <polygon id="_544164896" class="fil2" points="800.755,1567.98 752.78,1691.1 747.838,1703.15 737.01,1708.6 622.975,1766.01 594.465,1780.37 594.407,1778.01 594.402,1777.82 740.04,1535.98 740.827,1536.4 "/>
+    <circle id="_544165832" class="fil3" cx="664.92" cy="1649.93" r="23.5628"/>
+   </g>
+   <path id="_544164992" class="fil4" d="M1339.57 346.801l76.6052 44.0481c20.8925,11.478 35.2394,30.5622 41.524,52.0678l0.119291 -0.0330709c6.22678,21.411 4.31457,45.2162 -7.24253,66.2528l-174.54 317.696 -391.023 711.736c-11.5559,21.0331 -30.626,35.4154 -52.0359,41.641 -6.20552,1.80591 -12.6106,2.92559 -19.0937,3.32599l-157.909 -88.8154c-3.09331,-5.63859 -5.55355,-11.5949 -7.34528,-17.7473l-0.068504 -0.238583c-6.22441,-21.4087 -4.34174,-45.1678 7.15867,-66.0993l391.022 -711.736 173.185 -315.231 -39.4016 -21.6461 -281.427 512.25c-11.9551,21.763 -39.2918,29.7118 -61.0524,17.7567 -21.763,-11.9563 -29.713,-39.2929 -17.7579,-61.0548l303.076 -551.657c11.9575,-21.7606 39.2929,-29.7107 61.0548,-17.7555l155.152 85.239z"/>
+   <path id="_544156808" class="fil5" d="M1427.48 398.27c6.07087,4.71024 11.3929,10.1445 15.9071,16.1162l-657.89 1139.5 -18.9319 -10.8791 660.915 -1144.74z"/>
+   <polygon id="_544180544" class="fil5" points="1343.34,348.971 1362.27,359.854 698.843,1508.95 679.912,1498.07 "/>
+  </g>
+  <rect class="fil0" width="2048" height="2048"/>
+ </g>
+</svg>

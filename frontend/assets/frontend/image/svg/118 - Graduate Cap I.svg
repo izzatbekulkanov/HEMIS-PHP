@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#727272;stroke-width:31.9996}
+    .fil0 {fill:none}
+    .fil5 {fill:#202020}
+    .fil4 {fill:#727272}
+    .fil1 {fill:#414141;fill-rule:nonzero}
+    .fil3 {fill:#616161;fill-rule:nonzero}
+    .fil2 {fill:#757575;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="2048" height="2048"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <g id="_493163632">
+   <polygon id="_493174504" class="fil1" points="1044.32,584.121 1714.12,889.551 1792,925.067 1713.67,959.689 1036.78,1258.86 1021.1,1265.79 1005.47,1258.71 345.434,959.539 268.544,924.687 345.284,889.551 1012.41,584.121 1028.33,576.832 "/>
+   <path id="_493172992" class="fil2" d="M1024 1258.48l0.673229 -0.298819 329.366 -146.249 53.8961 -23.9327 -0.0129921 59.002 -0.0448819 192.813 -0.00472441 17.1614 -12.789 11.4343c-121.843,83.2501 -246.334,124.228 -370.92,124.128l-0.164173 0.0011811 0 -234.059z"/>
+   <path id="_493166944" class="fil3" d="M1022.6 1259.1l1.40079 -0.622441 0 234.059c-125.267,-0.137008 -250.629,-41.804 -373.49,-123.828l-12.9602 -11.4284 0.0153543 -17.4685 0.185433 -192.089 0.056693 -59.0623 53.8264 23.8429 330.965 146.596z"/>
+   <polyline id="_493161544" class="fil0 str0" points="1024,863.999 459.885,1019.31 459.885,1095.71 "/>
+   <g>
+    <polygon id="_493158136" class="fil4" points="455.201,1126.37 515.136,1357.71 401.804,1357.21 "/>
+    <circle id="_493175776" class="fil4" cx="455.99" cy="1125.63" r="37.6327"/>
+   </g>
+   <ellipse id="_493172176" class="fil5" cx="1018.89" cy="874.563" rx="47.6924" ry="30.2171"/>
+  </g>
+ </g>
+</svg>

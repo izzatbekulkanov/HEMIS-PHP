@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#A4A4A5}
+    .fil3 {fill:#BEBEBE}
+    .fil2 {fill:#BFBFBF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <g id="_544176272">
+   <rect id="_544172600" class="fil1" transform="matrix(3.18235 3.18235 -3.18235 3.18235 1386.9 287.999)" width="123.651" height="35.8772"/>
+   <rect id="_544173416" class="fil1" transform="matrix(4.46845 4.46845 -3.18235 3.18235 687.574 828.299)" width="123.651" height="35.8772"/>
+   <polygon id="_544186592" class="fil2" points="1337.97,467.416 1600.98,730.43 1144.35,1285.07 783.324,924.05 "/>
+   <polygon id="_544179056" class="fil3" points="809.725,1178.8 900.243,1269.32 276.396,1792 "/>
+  </g>
+  <rect class="fil0" width="2048" height="2048"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+Xabarlar asosan yuqoridan pastga qarab junatilish mexanizmi bolishi kerak
+Yuqoridan pastga:
+
+1. Admin adminga
+2. Admin bo'limga (kafedra, fakultet, dekanat ...) optom
+3. Admin talabaga
+4. Admin akademik guruhga
+5. Admin rollarga
+
+
+Talabalar faqat o'zining fakulteti, dekanati, kafedra o'qituvchisi doirasida xabar jo'nata olaishi kerak
+shunda ham bitta foydalanuvchiga, optom emas.
+
+Pastdan yuqoriga:
+1. Talaba dekanat adminlariga
+2. Talaba fan o'qituvchilariga
+3. Talaba xat olgan boshqa adminga atvet qilish

@@ -1,0 +1,1026 @@
+.absolute {
+    position:absolute;
+    font-family: Arial !important;
+}
+
+.bg-line-city-name-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 265px;
+    font-weight: bold;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.bg-line-city-name-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 290px;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg-line-reg-n-text-3 {
+    color: #000000;
+    font-size: 18px;
+    left: 59.45px;
+    top: 510px;
+    width: 270px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.bg-line-given-d-text-4 {
+    color: #000000;
+    font-size: 18px;
+    left: 59.45px;
+    top: 555px;
+    width: 270px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.bg-line-expel-r-5{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 610px;
+    font-weight: bold;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-expel-r-5-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 635px;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+.bg-line-order-t-6{
+    color: #000000;
+    font-size: 18.8px;
+    left: 59.45px;
+    top: 660px;
+    width: 230px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.bg-line-order-t2-6{
+    color: #000000;
+    font-size: 18.8px;
+    left: 290px;
+    top: 660px;
+    width: 40px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+  ;
+}
+.bg-line-order-t-7{
+    color: #000000;
+    font-size: 18.8px;
+    left: 59.45px;
+    top: 690px;
+    width: 270px;
+    height: 46px;
+    line-height: 26px;
+    text-align: justify;
+}
+.bg-line-stamp-place-t-1{
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 770px;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: justify;
+}
+.bg-line-stamp-place-t-2{
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 815px;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: justify;
+}
+.bg-line-stamp-place-t-3{
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 860px;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: justify;
+}
+.bg-line-att-t-8{
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    bottom: 100px;
+    width: 270px;
+    height: 69px;
+    line-height: 26px;
+    text-align: center;
+
+}
+
+.r-bg-line-secondname-1 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 90px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+
+.r-bg-line-firstname-2 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 120px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-thirdname-3 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 150px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-birthdate-4 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 180px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+
+.r-bg-line-lastedu-5 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 220px;
+    width: 364px;
+    height: 69px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.r-bg-line-admissionexam-6 {
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 320px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-points-7{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 350px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-passingscore-8{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 380px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-admission-univer-9{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 420px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+
+.r-bg-line-start_date-univer-10{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 450px;
+    width: 318px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-start_date-univer2-10{
+    color: #000000;
+    font-size: 16px;
+    left: 600px;
+    top: 450px;
+    width: 44px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-end_date-univer-11{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 480px;
+    width: 318px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-end_date-univer2-11{
+    color: #000000;
+    font-size: 18px;
+    left: 600px;
+    top: 480px;
+    width: 44px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.r-bg-line-univer-12{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 510px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.r-bg-line-univer-tip{
+    color: #000000;
+    font-size: 13px;
+    left: 370px;
+    top: 530px;
+    width: 320px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+.r-bg-line-univer2-12{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 550px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.r-bg-line-univer3-12{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 590px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.r-bg-line-eduform-13{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 638px;
+    width: 280px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-bg-line-eduform-tip{
+    color: #000000;
+    font-size: 13px;
+    left: 370px;
+    top: 660px;
+    width: 280px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+.r-bg-line-label2-13{
+   color: #000000;
+    font-size: 18.8px;
+    left: 650px;
+    top: 634px;
+    width: 84px;
+    height: 23px;
+    line-height: 26px;
+
+}
+
+
+.r-bg-line-cont-start_date-univer-14{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 675px;
+    width: 318px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-cont-start_date-univer2-14{
+    color: #000000;
+    font-size: 18px;
+    left: 600px;
+    top: 675px;
+    width: 44px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-cont-end_date-univer-15{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 706px;
+    width: 318px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-cont-end_date-univer2-15{
+    color: #000000;
+    font-size: 18px;
+    left: 600px;
+    top: 706px;
+    width: 44px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+}
+.r-bg-line-cont-univer-16{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 740px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.r-bg-line-cont-univer-tip{
+    color: #000000;
+    font-size: 13px;
+    left: 370px;
+    top: 760px;
+    width: 320px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+.r-bg-line-cont-univer2-16{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 780px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-bg-line-cont-univer3-16{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 820px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-bg-line-eduform-17{
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 868px;
+    width: 310px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-bg-line-eduform-tip-17{
+    color: #000000;
+    font-size: 13px;
+    left: 370px;
+    top: 890px;
+    width: 310px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+.r-bg-line-label2-17{
+    color: #000000;
+    font-size: 18.8px;
+    left: 680px;
+    top: 868px;
+    width: 54px;
+    height: 23px;
+    line-height: 26px;
+
+
+}
+.r-bg-line-label3-17{
+    color: #000000;
+    font-size: 20px;
+    left: 370px;
+    top: 910px;
+    width: 364px;
+    height: 23px;
+    line-height: 26px;
+}
+
+.r-bg-line-spec-name-18{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 945px;
+    width: 364px;
+    height: 46px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.city-name {
+    color: #000000;
+    font-size: 18px;
+    left: 59.45px;
+    top: 260px;
+    font-weight: bold;
+    width: 270px;
+    height: 46px;
+    line-height: 32px;
+    text-align: center;
+}
+.univer-name {
+    color: #000000;
+    font-size: 18px;
+    left: 59.45px;
+    top: 320px;
+    font-weight: bold;
+    width: 270px;
+    height: 92px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.reg-number {
+    color: #000000;
+    font-size: 18px;
+    left: 255px;
+    top: 510px;
+    width: 270px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+
+}
+.reg-date {
+    color: #000000;
+    font-size: 18px;
+    left: 190px;
+    top: 555px;
+    width: 270px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+.expel-name{
+    color: #000000;
+    font-size: 18.8px;
+    left: 59.45px;
+    top: 610px;
+    font-weight: bold;
+    width: 270px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+.expel-year {
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 656px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.expel-day {
+    color: #000000;
+    font-size: 16px;
+    left: 130px;
+    top: 656px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+.expel-month {
+    color: #000000;
+    font-size: 16px;
+    left: 185px;
+    top: 656px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+
+
+}
+.expel-order {
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 688px;
+    width: 145px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+.rector-name{
+    color: #000000;
+    font-size: 16px;
+    left: 185px;
+    top: 770px;
+    width: 150px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+
+}
+.dean-name{
+    color: #000000;
+    font-size: 16px;
+    left: 185px;
+    top: 815px;
+    width: 150px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+.secretary-name{
+    color: #000000;
+    font-size: 16px;
+    left: 185px;
+    top: 860px;
+    width: 150px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+
+.r-second-name {
+    color: #000000;
+    font-size: 18px;
+    left: 495px;
+    top: 90px;
+    width: 239px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.r-first-name {
+    color: #000000;
+    font-size: 18px;
+    left: 495px;
+    top: 120px;
+    width: 239px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}
+.r-third-name {
+    color: #000000;
+    font-size: 18px;
+    left: 495px;
+    top: 150px;
+    width: 239px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.r-birthdate {
+    color: #000000;
+    font-size: 18px;
+    left: 585px;
+    top: 180px;
+    width: 110px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+
+
+.r-last-education {
+    color: #000000;
+    font-size: 16px;
+    left: 370px;
+    top: 245px;
+    width: 364px;
+    height: 72px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-points{
+    color: #000000;
+    font-size: 16px;
+    left: 550px;
+    top: 350px;
+    width: 150px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-passingscore{
+    color: #000000;
+    font-size: 16px;
+    left: 550px;
+    top: 380px;
+    width: 150px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+
+.r-study-start-year{
+    color: #000000;
+    font-size: 16px;
+    left: 372px;
+    top: 450px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-study-start-day{
+    color: #000000;
+    font-size: 16px;
+    left: 450px;
+    top: 450px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-study-start-month{
+    color: #000000;
+    font-size: 16px;
+    left: 495px;
+    top: 450px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-study-end-year{
+     color: #000000;
+     font-size: 16px;
+     left: 372px;
+     top: 480px;
+     width: 100px;
+     height: 30px;
+     line-height: 26px;
+     text-align: left;
+
+     font-weight: bold;
+ }
+.r-study-end-day{
+    color: #000000;
+    font-size: 16px;
+    left: 450px;
+    top: 480px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-study-end-month{
+    color: #000000;
+    font-size: 16px;
+    left: 495px;
+    top: 480px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+
+.r-study-univer-name{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 510px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-study-univer-name-line2{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 550px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-study-univer-name-line3{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 590px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-study-eduform-name{
+    color: #000000;
+    font-size: 18px;
+    left: 372px;
+    top: 632px;
+    width: 320px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+
+}
+
+.r-cont-start-year{
+    color: #000000;
+    font-size: 16px;
+    left: 372px;
+    top: 676px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-start-day{
+    color: #000000;
+    font-size: 16px;
+    left: 450px;
+    top: 676px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-start-month{
+    color: #000000;
+    font-size: 16px;
+    left: 495px;
+    top: 676px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-end-year{
+    color: #000000;
+    font-size: 16px;
+    left: 372px;
+    top: 706px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-end-day{
+    color: #000000;
+    font-size: 16px;
+    left: 450px;
+    top: 706px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-end-month{
+    color: #000000;
+    font-size: 16px;
+    left: 495px;
+    top: 706px;
+    width: 100px;
+    height: 30px;
+    line-height: 26px;
+    text-align: left;
+
+    font-weight: bold;
+}
+.r-cont-univer-name{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 740px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-cont-univer-name-line2{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 780px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-cont-univer-name-line3{
+    color: #000000;
+    font-size: medium;
+    left: 372px;
+    top: 820px;
+    width: 364px;
+    height: 30px;
+    line-height: 26px;
+    text-align: center;
+}
+.r-cont-eduform-name{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 865px;
+    width: 280px;
+    height: 92px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.r-spec-name{
+    color: #000000;
+    font-size: 18px;
+    left: 370px;
+    top: 972px;
+    width: 364px;
+    height: 92px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+.qr-code {
+    bottom: 30px;
+    right: 3px;
+    width: 132px;
+    height: 132px;
+}
+
+.bg-font {
+}
+
+
+.subjects {
+}
+table, h4, h3 {
+    font-size: 16px;
+    font-family: Arial  !important;
+}
+.bordered {
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+
+}
+
+.bordered td,
+.bordered th {
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.center {
+    text-align: center;
+}
+
+table.bordered td, table.bordered th {
+    padding: 5px 2px;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+.p3-student-full-name{
+    padding: 0;
+}
+.p3-student-full-name .name {
+    border-bottom: 1px solid #ccc;
+
+}

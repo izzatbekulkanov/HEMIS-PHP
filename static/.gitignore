@@ -1,0 +1,9 @@
+*
+assets/*
+!assets
+crop/*
+!crop
+uploads/*
+!uploads
+!.gitignore
+!.htaccess

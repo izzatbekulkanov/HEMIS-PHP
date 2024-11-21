@@ -1,0 +1,85 @@
+* {
+    font-size: 12px !important;
+    font-family: "Times New Roman" !important;
+}
+
+.invoice, h3 {
+    top: 0;
+
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
+
+.row {
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+}
+
+.col-xs-12 {
+    width: 100% !important;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+    float: left !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+table {
+    margin-left: 32px;
+}
+
+tr, td, ul, .invoice-col {
+    border: none;
+    text-align: left;
+    background-image: none;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    font-weight: normal;
+}
+
+p, .title {
+    text-indent: 28px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: " ";
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+h3, h4 {
+    text-align: center;
+}

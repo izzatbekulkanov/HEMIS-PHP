@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#424343}
+    .fil4 {fill:#5C5C5C}
+    .fil5 {fill:#6B6B6B}
+    .fil3 {fill:#BEBEBE}
+    .fil2 {fill:#EFEFEF}
+    .fil6 {fill:#BEBEBE;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <rect class="fil1" x="512" y="407.541" width="1024" height="1376"/>
+  <polygon class="fil2" points="1504,407.541 544,407.541 544,1751.54 1297.25,1751.54 1504,1564.03 "/>
+  <polygon class="fil3" points="1288.6,1559.54 1297.45,1751.54 1504,1559.56 "/>
+  <g id="_513946504">
+   <rect id="_513945496" class="fil4" x="781.275" y="343.542" width="485.45" height="104.457"/>
+   <path id="_513956992" class="fil5" d="M1024 264.456c-30.6756,0 -55.5426,24.8669 -55.5426,55.5426 0,30.6756 24.8669,55.5426 55.5426,55.5426 30.6756,0 55.5426,-24.8669 55.5426,-55.5426 0,-30.6756 -24.8669,-55.5426 -55.5426,-55.5426zm0 30.6024c-13.774,0 -24.9402,11.1662 -24.9402,24.9402 0,13.774 11.1662,24.9402 24.9402,24.9402 13.774,0 24.9402,-11.1662 24.9402,-24.9402 0,-13.774 -11.1662,-24.9402 -24.9402,-24.9402z"/>
+  </g>
+  <rect class="fil3" x="864.001" y="727.542" width="575.298" height="32.0008"/>
+  <path class="fil6" d="M640.001 656.999l159.999 0 15 0 0 15 0 159.999 0 15 -15 0 -159.999 0 -15 0 0 -15 0 -159.999 0 -15 15 0zm144.999 30l-129.999 0 0 129.999 129.999 0 0 -129.999z"/>
+  <rect class="fil3" x="864.001" y="1032.54" width="575.298" height="32.0008"/>
+  <path class="fil6" d="M640.001 962l159.999 0 15 0 0 15 0 159.999 0 15 -15 0 -159.999 0 -15 0 0 -15 0 -159.999 0 -15 15 0zm144.999 30l-129.999 0 0 129.999 129.999 0 0 -129.999z"/>
+  <rect class="fil3" x="864.001" y="1337.54" width="575.298" height="32.0008"/>
+  <path class="fil6" d="M640.001 1267l159.999 0 15 0 0 15 0 159.999 0 15 -15 0 -159.999 0 -15 0 0 -15 0 -159.999 0 -15 15 0zm144.999 30l-129.999 0 0 129.999 129.999 0 0 -129.999z"/>
+  <rect class="fil0" width="2048" height="2048"/>
+ </g>
+</svg>

@@ -1,0 +1,916 @@
+.absolute {
+    position:absolute;
+}
+
+.uz-un-name {
+    color: #000000;
+    font-size: 18.7px;
+    left: 59.45px;
+    top: 173px;
+    font-weight: bold;
+    width: 482px;
+    height: 58px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.uz-issue-year {
+    color: #000000;
+    font-size: 26px;
+    left: 165.45px;
+    top: 277px;
+    font-weight: bold;
+    width: 24px;
+    height: 20px;
+}
+
+.uz-reg-number {
+    color: #000000;
+    font-size: 17px;
+    left: 213.45px;
+    top: 277px;
+    font-weight: bold;
+    width: 92px;
+    height: 20px;
+}
+
+.uz-full-name {
+    color: #000000;
+    font-size: 16px;
+    left: 59.45px;
+    top: 296px;
+    font-weight: bold;
+    width: 482px;
+    height: 76px;
+    line-height: 43px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.uz-direction-1 {
+    color: #000000;
+    font-size: 14px;
+    left: 58.45px;
+    top: 384px;
+    font-weight: bold;
+    width: 482px;
+    height: 28px;
+    text-align: center;
+}
+
+.uz-direction-2 {
+    color: #000000;
+    font-size: 14px;
+    left: 58.45px;
+    top: 425px;
+    font-weight: bold;
+    width: 482px;
+    height: 28px;
+    text-align: center;
+}
+
+.uz-direction-3 {
+    color: #000000;
+    font-size: 14px;
+    left: 58.45px;
+    top: 453px;
+    font-weight: bold;
+    width: 354px;
+    height: 28px;
+    text-align: center;
+}
+
+.uz-qualification-1 {
+    color: #000000;
+    font-size: 14px;
+    left: 73.45px;
+    top: 545px;
+    font-weight: bold;
+    width: 468px;
+    height: 23px;
+    text-align: center;
+}
+
+.uz-qualification-2 {
+    color: #000000;
+    font-size: 14px;
+    left: 67.45px;
+    top: 590px;
+    font-weight: bold;
+    width: 324px;
+    height: 23px;
+    text-align: center;
+}
+
+.uz-rector-full-name {
+    color: #000000;
+    font-size: 14px;
+    left: 206px;
+    top: 645px;
+    font-weight: bold;
+    width: 180px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.uz-registration-number {
+    color: #000000;
+    font-size: 14px;
+    left: 212.45px;
+    top: 689px;
+    font-weight: bold;
+    width: 118px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.uz-graduate-info {
+    color: #000000;
+    font-size: 14px;
+    left: 60.45px;
+    top: 723px;
+    font-weight: bold;
+    width: 480px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+/* English version */
+
+.en-un-name {
+    color: #000000;
+    font-size: 18.7px;
+    left: 613px;
+    top: 173px;
+    font-weight: bold;
+    width: 482px;
+    height: 58px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.en-full-name {
+    color: #000000;
+    font-size: 16px;
+    left: 611px;
+    top: 303px;
+    font-weight: bold;
+    width: 481px;
+    height: 57px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.en-issue-date {
+    color: #000000;
+    font-size: 12px;
+    left: 929px;
+    top: 279px;
+    font-weight: bold;
+    width: 180px;
+    height: 20px;
+}
+
+.en-direction-1 {
+    color: #000000;
+    font-size: 14px;
+    display: block;
+    left: 711px;
+    top: 387px;
+    font-weight: bold;
+    width: 382px;
+    height: 32px;
+    text-align: center;
+}
+
+.en-direction-2 {
+    color: #000000;
+    font-size: 14px;
+    display: block;
+    left: 615px;
+    top: 430px;
+    font-weight: bold;
+    width: 481px;
+    height: 32px;
+    text-align: center;
+}
+
+.en-direction-3 {
+    color: #000000;
+    font-size: 14px;
+    display: block;
+    left: 615px;
+    top: 455px;
+    font-weight: bold;
+    width: 481px;
+    height: 32px;
+    text-align: center;
+}
+
+.en-qualification-1 {
+    color: #000000;
+    font-size: 14px;
+    left: 715px;
+    top: 547px;
+    font-weight: bold;
+    width: 367px;
+    height: 23px;
+    text-align: center;
+}
+
+.en-qualification-2 {
+    color: #000000;
+    font-size: 14px;
+    left: 618px;
+    top: 592px;
+    font-weight: bold;
+    width: 481px;
+    height: 23px;
+    text-align: center;
+}
+
+.en-registration-number {
+    color: #000000;
+    font-size: 14px;
+    left: 742px;
+    top: 689px;
+    font-weight: bold;
+    width: 118px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.en-graduate-info {
+    color: #000000;
+    font-size: 14px;
+    left: 606px;
+    top: 723px;
+    font-weight: bold;
+    width: 320px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.en-rector-full-name {
+    color: #000000;
+    font-size: 14px;
+    left: 755px;
+    top: 645px;
+    font-weight: bold;
+    width: 145px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.qr-code {
+    bottom: 30px;
+    right: 3px;
+    width: 132px;
+    height: 132px;
+}
+
+.bg-font {
+}
+
+.bg-line-un-name-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 176px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-un-name-2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 208px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-un-name-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 229px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg-line-att-t1 {
+    color: #000000;
+    font-size: 17px;
+    left: 48.45px;
+    top: 259px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg-line-att-t2 {
+    color: #000000;
+    font-size: 17px;
+    left: 45.45px;
+    top: 277px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg-line-st-name-l1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 306px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-st-name-l1-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 327px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg-line-sp-l1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 349px;
+    font-weight: bold;
+    width: 466px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-sp-l1-text {
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 354px;
+    width: 482px;
+    height: 23px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.bg-line-sp-l2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 379px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-sp-l2-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 400px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg-line-sp-l3 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 421px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-sp-l4 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 450px;
+    font-weight: bold;
+    width: 370px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-sp-l4-tip {
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 453px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.bg-line-type-of-education-t1 {
+    color: #000000;
+    font-size: 30px;
+    left: 42.45px;
+    top: 494px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg-line-type-of-education-t2 {
+    color: #000000;
+    font-size: 18px;
+    left: 42.45px;
+    top: 519px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg-line-qs-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 76.45px;
+    top: 542px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-qs-1-tip {
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 547px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.bg-line-qs-1-tip-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 562px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg-line-qs-2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 587px;
+    font-weight: bold;
+    width: 334px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bg-line-qs-2-tip {
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 592px;
+    width: 462px;
+    height: 23px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.bg-line-stamp-place {
+    color: #000000;
+    font-size: 18px;
+    left: 172px;
+    top: 644px;
+    width: 462px;
+    height: 23px;
+    line-height: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bg-line-stamp-place-t1 {
+    color: #000000;
+    font-size: 16px;
+    left: 54.45px;
+    top: 644px;
+    width: 50px;
+    height: 30px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.bg-line-reg-n-text {
+    color: #000000;
+    font-size: 16px;
+    left: 54.45px;
+    top: 689px;
+    width: 462px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.bg-line-reg-n-l1 {
+    color: #000000;
+    font-size: 16px;
+    left: 211.45px;
+    top: 686px;
+    width: 125px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+.bg-line-ip-l1 {
+    color: #000000;
+    font-size: 14px;
+    left: 59.45px;
+    top: 722px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.bg-line-ip-l2 {
+    color: #000000;
+    font-size: 13px;
+    left: 59.45px;
+    top: 743px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.e-bg-line-un-name-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 176px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-un-name-2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 210px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-un-name-2-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 610px;
+    top: 231px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.e-bg-line-att-t1 {
+    color: #000000;
+    font-size: 17px;
+    left: 610px;
+    top: 261px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.e-bg-line-att-t2 {
+    color: #000000;
+    font-size: 17px;
+    left: 648px;
+    top: 279px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.e-bg-line-st-name-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 307px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-st-name-2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 338px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-st-name-2-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 610px;
+    top: 359px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.e-bg-line-sp-l1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 705px;
+    top: 383px;
+    font-weight: bold;
+    width: 388px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-sp-l1-tip {
+    color: #000000;
+    font-size: 24px;
+    left: 610px;
+    top: 392px;
+    width: 95px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.e-bg-line-sp-l1-tip-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 705px;
+    top: 404px;
+    width: 388px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.e-bg-line-sp-l2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 424px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-sp-l3 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 452px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-type-of-education-t1 {
+    color: #000000;
+    font-size: 30px;
+    left: 598px;
+    top: 497px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.e-bg-line-type-of-education-t2 {
+    color: #000000;
+    font-size: 18px;
+    left: 598px;
+    top: 521px;
+    width: 510px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.e-bg-line-qs-1 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 700px;
+    top: 544px;
+    font-weight: bold;
+    width: 393px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-qs-1-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 610px;
+    top: 548px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.e-bg-line-qs-1-tip-tip {
+    color: #000000;
+    font-size: 13px;
+    left: 610px;
+    top: 563px;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}
+
+.e-bg-line-qs-2 {
+    border-bottom: 1px solid black;
+    color: #000000;
+    font-size: 14px;
+    left: 610px;
+    top: 588px;
+    font-weight: bold;
+    width: 483px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.e-bg-line-stamp-place {
+    color: #000000;
+    font-size: 18px;
+    left: 690px;
+    top: 644px;
+    width: 462px;
+    height: 23px;
+    line-height: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.e-bg-line-stamp-place-t1 {
+    color: #000000;
+    font-size: 16px;
+    left: 605px;
+    top: 644px;
+    width: 50px;
+    height: 30px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.e-bg-line-reg-n-text {
+    color: #000000;
+    font-size: 16px;
+    left: 605px;
+    top: 689px;
+    width: 462px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.e-bg-line-reg-n-l1 {
+    color: #000000;
+    font-size: 16px;
+    left: 740px;
+    top: 686px;
+    width: 128px;
+    height: 23px;
+    line-height: 26px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+.e-bg-line-ip-l1 {
+    color: #000000;
+    font-size: 14px;
+    left: 607px;
+    top: 722px;
+    font-weight: bold;
+    width: 265px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.e-bg-line-ip-l2 {
+    color: #000000;
+    font-size: 13px;
+    left: 607px;
+    top: 743px;
+    width: 265px;
+    height: 23px;
+    line-height: 26px;
+    text-align: center;
+    font-style: italic;
+}

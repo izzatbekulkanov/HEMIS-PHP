@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil4 {fill:#6A6A6A}
+    .fil3 {fill:#A1A1A1}
+    .fil0 {fill:#C4C4C4}
+    .fil2 {fill:gainsboro}
+    .fil1 {fill:#E4E5E5}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_495636896">
+   <path id="_495623336" class="fil0" d="M661.264 475.472l286.374 833.994c-334.611,0 -608.384,-346.779 -608.384,-770.619l0 -0.00236221c0,-34.8544 22.513,-63.3721 50.0304,-63.3721l271.98 0zm-78.3449 109.735l197.642 575.584c-88.6418,-42.652 -161.289,-115.854 -213.916,-198.482 -71.3941,-112.096 -109.274,-244.564 -116.41,-377.101l132.683 0z"/>
+   <path id="_495645248" class="fil0" d="M1386.74 475.472l-286.374 833.994c334.611,0 608.384,-346.779 608.384,-770.619l0 -0.00236221c0,-34.8544 -22.513,-63.3721 -50.0304,-63.3721l-271.98 0zm78.3438 109.735l-197.641 575.584c88.6418,-42.652 161.289,-115.854 213.916,-198.482 71.3941,-112.096 109.273,-244.564 116.408,-377.101l-132.683 0z"/>
+   <g>
+    <path id="_495639848" class="fil1" d="M1012.57 255.999l1.47284 0 507.827 0c-73.0099,415.677 -87.6792,1161.68 -504.785,1166.71 -1.47638,0.0177165 -2.88425,-0.0354331 -4.34764,-0.0307087l-0.167717 -0.0011811 0 -1166.68z"/>
+    <path id="_495634304" class="fil2" d="M1012.57 255.999l-1.47284 0 -507.828 0c73.0111,415.677 87.6792,1161.68 504.786,1166.71 1.47638,0.0177165 2.88425,-0.0354331 4.34646,-0.0307087l0.168898 -0.0011811 0 -1166.68z"/>
+   </g>
+   <rect id="_495621632" class="fil3" x="936.266" y="1413.8" width="173.505" height="138.199"/>
+   <polygon id="_495623168" class="fil4" points="705.314,1528.94 1319.84,1528.94 1451.52,1792.3 573.63,1792.3 "/>
+  </g>
+  <rect class="fil5" width="2048" height="2048"/>
+ </g>
+</svg>

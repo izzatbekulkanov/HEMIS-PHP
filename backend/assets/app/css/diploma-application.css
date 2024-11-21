@@ -1,0 +1,777 @@
+.absolute {
+    position:absolute;
+}
+
+@page {
+    margin: 0;
+}
+
+div {
+    font-size: 15px;
+}
+
+body {
+    font-family: "Times New Roman", sans-serif !important;
+}
+
+.p1-diploma-number {
+    position: absolute;
+    top: 352px;
+    left: 115px;
+    width: 160px;
+    height: auto;
+    outline: none;
+
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.p1-unv-address-requisites-en {
+    position: absolute;
+    top: 651px;
+    left: 20px;
+    width: 240px;
+    height: 54px;
+    outline: none;
+    text-align: center;
+}
+
+.p1-unv-address-requisites-uz-header {
+    position: absolute;
+    top: 815px;
+    left: 20px;
+    width: 240px;
+    height: 55px;
+    outline: none;
+    text-align: center;
+
+}
+
+.p1-unv-address-requisites-en-header {
+    position: absolute;
+    top: 975px;
+    left: 20px;
+    width: 240px;
+    height: 55px;
+    outline: none;
+text-align: center;
+}
+
+.p1-unv-address-requisites-uz {
+    position: absolute;
+    top: 889px;
+    left: 20px;
+    width: 240px;
+    height: 55px;
+    outline: none;
+    text-align: center;
+
+}
+
+.p1-unv-address-requisites-phones {
+    position: absolute;
+    top: 1043px;
+    left: 20px;
+    width: 240px;
+    height: 55px;
+    outline: none;
+    text-align: center;
+
+}
+
+.p1-heading {
+    position: absolute;
+    text-transform: uppercase;
+    top: 30px;
+    left: 325px;
+    width: 360px;
+    height: 40px;
+    outline: none;
+    font-weight: bold;
+}
+
+.p1-heading-1 {
+    position: absolute;
+    top: 75px;
+    left: 325px;
+    width: 180px;
+    height: 18px;
+    outline: none;
+}
+.p1-heading-2 {
+    position: absolute;
+    top: 75px;
+    left: 523px;
+    width: 240px;
+    height: 32px;
+    outline: none;
+}
+
+.p1-last-name {
+    position: absolute;
+    top: 91px;
+    left: 325px;
+    width: 180px;
+    height: 60px;
+    outline: none;
+    font-weight: bold;
+}
+
+.p1-first-name {
+    position: absolute;
+    top: 91px;
+    left: 533px;
+    width: 218px;
+    height: 60px;
+    outline: none;
+    font-weight: bold;
+}
+
+.p1-heading-3 {
+    position: absolute;
+    top: 165px;
+    left: 325px;
+    width: 190px;
+    height: 28px;
+    outline: none;
+}
+.p1-heading-4 {
+    position: absolute;
+    top: 165px;
+    left: 523px;
+    width: 240px;
+    height: 38px;
+    outline: none;
+}
+
+.p1-birth-day {
+    position: absolute;
+    top: 185px;
+    left: 325px;
+    width: 180px;
+    height: 60px;
+    outline: none;
+
+    font-weight: bold;
+}
+
+.p1-pin-fl {
+    position: absolute;
+    top: 201px;
+    left: 533px;
+    width: 180px;
+    height: 60px;
+    outline: none;
+}
+
+.p1-heading-5 {
+    position: absolute;
+    top: 277px;
+    left: 325px;
+    width: 440px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p1-prev-unv-info {
+    position: absolute;
+    top: 294px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+}
+
+.p2-heading {
+    position: absolute;
+    top: 360px;
+    left: 325px;
+    width: 440px;
+    height: 40px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.p2-heading-1 {
+    position: absolute;
+    top: 412px;
+    left: 325px;
+    width: 450px;
+    height: 28px;
+    outline: none;
+}
+
+.p1-qualifications {
+    position: absolute;
+    top: 428px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+
+    font-weight: bold;
+}
+
+.p1-gov-state-att {
+    position: absolute;
+    top: 490px;
+    left: 325px;
+    width: 440px;
+    height: 35px;
+    outline: none;
+}
+
+.p1-gov-state-att-commission {
+    position: absolute;
+    top: 534px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+}
+
+.p2-heading-2 {
+    position: absolute;
+    top: 614px;
+    left: 325px;
+    width: 445px;
+    height: 18px;
+    outline: none;
+}
+
+.p1-field-of-study {
+    position: absolute;
+    top: 634px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+    font-weight: bold;
+}
+
+.p2-heading-3 {
+    position: absolute;
+    top: 702px;
+    left: 325px;
+    width: 450px;
+    height: 17px;
+    outline: none;
+}
+
+.p1-global-qualifications {
+    position: absolute;
+    top: 722px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+    font-weight: bold;
+}
+
+.p2-heading-4 {
+    position: absolute;
+    top: 790px;
+    left: 325px;
+    width: 450px;
+    height: 35px;
+    outline: none;
+}
+
+.p1-awarding_institution {
+    position: absolute;
+    top: 827px;
+    left: 325px;
+    width: 440px;
+    height: 68px;
+    outline: none;
+}
+
+.p2-heading-5 {
+    position: absolute;
+    top: 917px;
+    left: 325px;
+    width: 450px;
+    height: 36px;
+    outline: none;
+}
+
+.p1-prev_awarding_institution {
+    position: absolute;
+    top: 954px;
+    left: 325px;
+    width: 440px;
+    height: 72px;
+    outline: none;
+}
+
+.p2-heading-6 {
+    position: absolute;
+    top: 1021px;
+    left: 325px;
+    width: 460px;
+    height: 28px;
+    outline: none;
+}
+
+.p1-exam-languages {
+    position: absolute;
+    top: 1041px;
+    left: 325px;
+    width: 440px;
+    height: 50px;
+    outline: none;
+}
+
+.p3-headline {
+    text-transform: uppercase;
+    font-weight: bold;
+    position: absolute;
+    top: 15px;
+    left: 21px;
+    width: 720px;
+    height: 40px;
+    outline: none;
+}
+
+.p3-headline-1 {
+    position: absolute;
+    top: 50px;
+    left: 21px;
+    width: 700px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p2-level-of-education {
+    position: absolute;
+    top: 65px;
+    left: 21px;
+    width: 720px;
+    height: 66px;
+    outline: none;
+}
+
+.p3-headline-2 {
+    position: absolute;
+    top: 132px;
+    left: 21px;
+    width: 720px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p2-length-of-full-time-programme {
+    position: absolute;
+    top: 152px;
+    left: 21px;
+    width: 720px;
+    height: 64px;
+    outline: none;
+}
+
+.p3-headline-3 {
+    position: absolute;
+    top: 219px;
+    left: 21px;
+    width: 720px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p2-admission-requirements {
+    position: absolute;
+    top: 239px;
+    left: 21px;
+    width: 720px;
+    height: 66px;
+    outline: none;
+}
+
+.p4-headline {
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: bold;
+    top: 310px;
+    left: 21px;
+    width: 720px;
+    height: 40px;
+    outline: none;
+}
+
+.p4-headline-1 {
+    position: absolute;
+    top: 365px;
+    left: 21px;
+    width: 710px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p2-type-of-study {
+    position: absolute;
+    top: 380px;
+    left: 21px;
+    width: 720px;
+    height: 60px;
+    outline: none;
+}
+
+.p4-headline-2 {
+    position: absolute;
+    top: 462px;
+    left: 21px;
+    width: 710px;
+    height: 18px;
+    outline: none;
+}
+.p2-curriculum-description {
+    position: absolute;
+    top: 482px;
+    left: 32px;
+    width: 720px;
+    height: 600px;
+    outline: none;
+    border: 1px solid black;
+}
+.p3-student-full-name {
+    position: absolute;
+    top: 3px;
+    left: 32px;
+    width: 720px;
+    height: 24px;
+    outline: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.p3-student-fullname-line {
+    position: absolute;
+    top: 3px;
+    left: 25px;
+    width: 720px;
+    height: 24px;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+.p3-student-fullname-tip {
+    position: absolute;
+    top: 30px;
+    left: 32px;
+    width: 720px;
+    height: 16px;
+    outline: none;
+    text-align: center;
+}
+
+.p4-headline-3 {
+    position: absolute;
+    top: 53px;
+    left: 54px;
+    width: 720px;
+    height: 17.5px;
+    outline: none;
+}
+
+.p3-table-box {
+    position: absolute;
+    top: 83px;
+    left: 54px;
+    width: 720px;
+    height: 980px;
+    outline: none;
+}
+
+table, th, td {
+    font-size: 13px;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+th {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+th:nth-child(1) {
+    width: 8%;
+}
+
+th:nth-child(2) {
+    width: 64%;
+}
+
+th:nth-child(3) {
+    width: 12%;
+}
+
+th:nth-child(4) {
+    width: 16%;
+}
+
+td:nth-child(2) {
+    text-align: left !important;
+    padding-left: 7px;
+}
+.p4-table-box {
+    position: absolute;
+    top: 22px;
+    left: 15px;
+    width: 720px;
+    height: 400px;
+    outline: none;
+}
+
+table, td {
+    font-size: 13px;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+td:nth-child(1) {
+    width: 8%;
+}
+
+td:nth-child(2) {
+    width: 64%;
+    text-align: left !important;
+    padding-left: 7px;
+}
+
+td:nth-child(3) {
+    width: 12%;
+}
+
+td:nth-child(4) {
+    width: 16%;
+}
+
+.p4-headline-4 {
+    position: absolute;
+    top: 439px;
+    left: 15px;
+    width: 720px;
+    height: 17px;
+    outline: none;
+}
+
+.p4-unv-rating-system {
+    position: absolute;
+    top: 454px;
+    left: 15px;
+    width: 740px;
+    height: 62px;
+    outline: none;
+}
+
+.p4-headline-5 {
+    position: absolute;
+    top: 518px;
+    left: 15px;
+    width: 720px;
+    height: 17px;
+    outline: none;
+}
+
+.p4-sp-info-to-degree {
+    position: absolute;
+    top: 538px;
+    left: 15px;
+    width: 730px;
+    height: 45px;
+    outline: none;
+}
+
+.p5-headline {
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: bold;
+    top: 587px;
+    left: 15px;
+    width: 730px;
+    height: 40px;
+    outline: none;
+}
+
+.p5-headline-1 {
+    position: absolute;
+    top: 625px;
+    left: 15px;
+    width: 730px;
+    height: 17px;
+    outline: none;
+}
+
+.p4-can-continue-studying {
+    position: absolute;
+    top: 647px;
+    left: 15px;
+    width: 730px;
+    height: 50px;
+    outline: none;
+}
+
+.p5-headline-2 {
+    position: absolute;
+    top: 703px;
+    left: 15px;
+    width: 730px;
+    height: 17px;
+    outline: none;
+}
+
+.p4-professional-status {
+    position: absolute;
+    top: 725px;
+    left: 15px;
+    width: 730px;
+    height: 50px;
+    outline: none;
+}
+
+.p6-headline {
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: bold;
+    top: 780px;
+    left: 15px;
+    width: 730px;
+    height: 40px;
+    outline: none;
+}
+
+.p4-unv-accreditation-info {
+    position: absolute;
+    top: 802px;
+    left: 15px;
+    width: 730px;
+    height: 60px;
+    outline: none;
+}
+
+.p4-diploma-number {
+    position: absolute;
+    top: 900px;
+    left: 525px;
+    width: 180px;
+    height: 20px;
+    outline: none;
+
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.p4-sign-place {
+    position: absolute;
+    top: 880px;
+    left: 21px;
+    width: 280px;
+    height: 30px;
+    outline: none;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.p4-diploma-number-label {
+    position: absolute;
+    top: 880px;
+    left: 525px;
+    width: 280px;
+    height: 18px;
+    outline: none;
+}
+
+.p4-rector-full-name {
+    position: absolute;
+    top: 935px;
+    left: 118px;
+    width: 230px;
+    height: 20px;
+    outline: none;
+    font-weight: bold;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.p4-rector-label {
+    position: absolute;
+    top: 935px;
+    left: 21px;
+    width: 310px;
+    height: 18px;
+    outline: none;
+}
+
+.p4-doc-number-label {
+    position: absolute;
+    top: 941px;
+    left: 525px;
+    width: 280px;
+    height: 18px;
+    outline: none;
+}
+
+.p4-doc-number {
+    position: absolute;
+    top: 961px;
+    left: 525px;
+    width: 180px;
+    height: 20px;
+    outline: none;
+
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.p4-issue-date-label {
+    position: absolute;
+    top: 1015px;
+    left: 525px;
+    width: 280px;
+    height: 18px;
+    outline: none;
+}
+
+.p4-issue-date {
+    position: absolute;
+    top: 1035px;
+    left: 525px;
+    width: 180px;
+    height: 20px;
+    outline: none;
+
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.p5-table-box {
+    position: absolute;
+    top: 310px;
+    left: 54px;
+    width: 720px;
+    height: 980px;
+    outline: none;
+}
+.p6-table-box {
+    position: absolute;
+    top: 83px;
+    left: 54px;
+    width: 720px;
+    height: auto;
+    outline: none;
+}
+/*
+.p-heading-title {
+    height: 50px !important;
+    font-weight: normal !important;
+    font-size: 11px !important;
+}*/

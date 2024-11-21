@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#B3B3B3;stroke-width:10.0004;stroke-dasharray:10.000401 10.000401}
+    .fil3 {fill:none}
+    .fil2 {fill:#414141}
+    .fil0 {fill:#717171}
+    .fil1 {fill:#E1E1E2}
+    .fil4 {fill:#727272;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M327.999 543.998l1402 0c34.917,0 61.9997,27.554 61.9997,61.9997l0 900.003c0,33.9862 -28.0134,61.9997 -61.9997,61.9997 -470.667,0 -941.336,0 -1412,0 -33.9862,0 -61.9997,-28.0134 -61.9997,-61.9997l0 -890.003c0,-39.6638 32.3362,-72.0001 72.0001,-72.0001z"/>
+  <path class="fil1" d="M327.999 583.998c-17.5854,0 -32.0008,14.4154 -32.0008,32.0008l0 890.003c0,11.9067 10.0937,22.0004 22.0004,22.0004 470.667,0 941.336,0 1412,0 11.9067,0 22.0004,-10.0937 22.0004,-22.0004l0 -900.003c0,-12.5953 -9.39686,-22.0004 -22.0004,-22.0004l-1402 0z"/>
+  <g id="_544179512">
+   <polygon id="_544158848" class="fil2" points="448,943.999 1600,943.999 1600,976 448,976 "/>
+   <polygon id="_544181216" class="fil2" points="448,1328 1312,1328 1312,1360 448,1360 "/>
+   <polygon id="_544159616" class="fil2" points="448,1136 1312,1136 1312,1168 448,1168 "/>
+   <polygon id="_544169768" class="fil2" points="448,751.999 1600,751.999 1600,784 448,784 "/>
+  </g>
+  <rect class="fil3" x="255.999" y="255.999" width="1536" height="1536"/>
+  <g id="_544164080">
+   <path id="_544166072" class="fil4" d="M1505.87 1105.09c147.821,0 217.892,183.362 108.558,282.16l0 192.338 0 52.4138 -37.063 -37.063 -71.4945 -71.4945 -71.4945 71.4945 -37.0618 37.063 0 -52.4138 0 -192.337c-109.362,-98.7709 -39.2445,-282.161 108.556,-282.161z"/>
+   <circle id="_544157336" class="fil3 str0" cx="1505.87" cy="1263.03" r="139.895"/>
+   <polyline id="_544184624" class="fil3 str0" points="1415.99,1389.06 1415.99,1574.97 1510.22,1486.72 1593.11,1564.35 1593.11,1387.32 "/>
+  </g>
+  <rect class="fil3" width="2048" height="2048"/>
+ </g>
+</svg>

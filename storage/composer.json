@@ -1,0 +1,14 @@
+{
+  "name": "hemis/storage",
+  "description": "This is the description of the project.",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "guzzlehttp/guzzle": "*"
+  },
+  "autoload": {
+    "psr-0": {
+    }
+  }
+}

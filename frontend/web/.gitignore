@@ -1,0 +1,10 @@
+*
+assets/*
+!assets
+!favicon.ico
+crop/*
+!crop
+uploads/*
+!uploads
+!.gitignore
+!.htaccess

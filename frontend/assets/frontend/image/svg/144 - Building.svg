@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#757575}
+    .fil1 {fill:#BEBEBE}
+    .fil3 {fill:#888888;fill-rule:nonzero}
+    .fil5 {fill:#9B9B9C;fill-rule:nonzero}
+    .fil4 {fill:#BEBEBE;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_513959392">
+   <rect id="_513944848" class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+   <rect id="_513955936" class="fil1" x="1384.49" y="546.956" width="376.164" height="1128.49"/>
+   <rect id="_513940000" class="fil1" x="287.345" y="546.956" width="376.164" height="1128.49"/>
+   <rect id="_513957880" class="fil2" x="255.999" y="506.775" width="407.51" height="40.1814"/>
+   <rect id="_513937744" class="fil2" x="1384.49" y="506.775" width="407.51" height="40.1814"/>
+   <path id="_513950680" class="fil1" d="M1384.49 444.082l0 1231.37c-470.028,0 -250.95,0 -720.98,0l0 -1231.37 0 -31.3477 30.3579 0 660.264 0 30.3579 0 0 31.3477z"/>
+   <rect id="_513945520" class="fil2" x="632.161" y="372.552" width="783.675" height="40.1814"/>
+   <polygon id="_513938992" class="fil2" points="1528.44,702.693 1616.7,702.693 1616.7,790.953 1528.44,790.953 "/>
+   <polygon id="_513941200" class="fil2" points="1528.44,933.218 1616.7,933.218 1616.7,1021.48 1528.44,1021.48 "/>
+   <polygon id="_513969592" class="fil2" points="1528.44,1163.74 1616.7,1163.74 1616.7,1252 1528.44,1252 "/>
+   <polygon id="_513952984" class="fil2" points="431.296,702.693 519.558,702.693 519.558,790.953 431.296,790.953 "/>
+   <polygon id="_513958024" class="fil2" points="431.296,933.218 519.558,933.218 519.558,1021.48 431.296,1021.48 "/>
+   <polygon id="_513968680" class="fil2" points="431.296,1163.74 519.558,1163.74 519.558,1252 431.296,1252 "/>
+   <rect id="_513946144" class="fil2" x="664.949" y="1167.03" width="723.268" height="381.763"/>
+   <polygon id="_513942376" class="fil3" points="1039.36,869.799 1399.19,1131 1448.81,1167.03 1386.37,1167.03 666.722,1167.03 604.28,1167.03 653.907,1131 1013.73,869.799 1026.55,860.495 "/>
+   <polygon id="_513940144" class="fil4" points="755.294,1167.03 755.294,1548.79 715.108,1548.79 715.108,1167.03 "/>
+   <polygon id="_513960040" class="fil4" points="900.967,1167.03 900.967,1548.79 860.78,1548.79 860.78,1167.03 "/>
+   <polygon id="_513966712" class="fil4" points="1046.64,1167.03 1046.64,1548.79 1006.45,1548.79 1006.45,1167.03 "/>
+   <polygon id="_513955336" class="fil4" points="1192.31,1167.03 1192.31,1548.79 1152.13,1548.79 1152.13,1167.03 "/>
+   <polygon id="_513957784" class="fil4" points="1337.99,1167.03 1337.99,1548.79 1297.8,1548.79 1297.8,1167.03 "/>
+   <polygon id="_513955552" class="fil5" points="664.877,1548.79 1388.22,1548.79 1388.22,1609.07 664.877,1609.07 "/>
+   <polygon id="_513959704" class="fil3" points="604.6,1607.44 1448.5,1607.44 1448.5,1674.34 604.6,1674.34 "/>
+   <polygon id="_513963856" class="fil2" points="865.001,630.667 953.263,630.667 953.263,718.926 865.001,718.926 "/>
+   <polygon id="_513958144" class="fil2" points="1119.03,630.667 1207.29,630.667 1207.29,718.926 1119.03,718.926 "/>
+  </g>
+  <rect class="fil0" width="2048" height="2048"/>
+ </g>
+</svg>

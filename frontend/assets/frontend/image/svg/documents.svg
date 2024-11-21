@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#616161}
+    .fil3 {fill:#8F8F90}
+    .fil1 {fill:#BEBEBE}
+    .fil4 {fill:#F0F1F1}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="255.999" y="255.999" width="1536" height="1536"/>
+  <g id="_495630152">
+   <path id="_495629384" class="fil1" d="M289.388 389.227l1369.05 0 33.3922 0 0 33.3922 0 168.692 0 1066.23c-4.66181,0.367323 -9.37205,0.555119 -14.1272,0.555119l-1289.85 0c-36.437,0 -69.4477,-15.0508 -93.3674,-39.3803 -23.7827,-24.1925 -38.4933,-57.4997 -38.4933,-94.1765l0 -1101.92 0 -33.3922 33.3922 0z"/>
+   <path id="_495648920" class="fil2" d="M1691.83 591.311l66.7796 -0.00236221 33.3922 0 0 34.0311 0 866.014c0,51.4784 -20.2169,98.1816 -52.9075,132.076 -13.7528,14.2595 -29.6977,26.237 -47.2642,35.3445l0 -1067.46z"/>
+   <polygon id="_495631208" class="fil3" points="456.352,522.795 790.266,522.795 823.658,522.795 823.658,556.187 823.658,956.884 823.658,990.276 790.266,990.276 456.352,990.276 422.96,990.276 422.96,956.884 422.96,556.187 422.96,522.795 "/>
+   <polygon id="_495626672" class="fil2" points="422.96,1457.74 1491.48,1457.74 1491.48,1524.53 422.96,1524.53 "/>
+   <polygon id="_495631232" class="fil4" points="422.96,1290.79 1491.48,1290.79 1491.48,1357.58 422.96,1357.58 "/>
+   <polygon id="_495637280" class="fil2" points="422.96,1123.84 1491.48,1123.84 1491.48,1190.62 422.96,1190.62 "/>
+   <polygon id="_495641504" class="fil4" points="957.223,923.496 1491.48,923.496 1491.48,990.281 957.223,990.281 "/>
+   <polygon id="_495641984" class="fil2" points="957.223,723.146 1491.48,723.146 1491.48,789.93 957.223,789.93 "/>
+   <polygon id="_495629816" class="fil4" points="957.223,522.795 1491.48,522.795 1491.48,589.58 957.223,589.58 "/>
+  </g>
+  <rect class="fil0" width="2048" height="2048"/>
+ </g>
+</svg>

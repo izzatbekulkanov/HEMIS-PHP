@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+*
+!.gitignore
+!.htaccess
+!favicon.ico
+assets/*
+!assets
+!templates

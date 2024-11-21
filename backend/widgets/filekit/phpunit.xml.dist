@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ @link      http://www.activemedia.uz/
+  ~ @copyright Copyright (c) 2017. ActiveMedia Solutions LLC
+  ~ @author    Rustam Mamadaminov <rmamdaminov@gmail.com>
+  -->
+
+<phpunit bootstrap="./tests/bootstrap.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Yii2 File Kit Test Suite">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
